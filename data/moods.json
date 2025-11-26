@@ -1,0 +1,20 @@
+{
+  "happy": {"playlist_id": "37i9dQZF1DXdPec7aLTmlC", "description": "Feel Good Hits"},
+  "sad": {"playlist_id": "37i9dQZF1DX7qK8ma5wgG1", "description": "Chill Vibes"},
+  "energetic": {"playlist_id": "37i9dQZF1DWUSyphfcck1J", "description": "Workout Beats"},
+  "relaxed": {"playlist_id": "37i9dQZF1DWXLeA8Omikj7", "description": "Peaceful Piano"},
+  "bollywood": {"playlist_id": "37i9dQZF1DX0XUsuxWHRQd", "description": "Bollywood Hits"},
+  "bored": {"playlist_id": "37i9dQZF1DX5IDTimEWoTd", "description": "Feel-Good Fun"},
+  "romantic": {"playlist_id": "37i9dQZF1DX50QitC6Oqtn", "description": "Love Pop"},
+  "focus": {"playlist_id": "37i9dQZF1DWZeKCadgRdKQ", "description": "Deep Focus"},
+  "party": {"playlist_id": "37i9dQZF1DXaXB8fQg7xif", "description": "Party Hits"},
+  "chill": {"playlist_id": "37i9dQZF1DX2sUQwD7tbmL", "description": "Lo-Fi Beats"},
+  "nostalgic": {"playlist_id": "37i9dQZF1DXbTxeAdrVG2l", "description": "90s Smash Hits"},
+  "angry": {"playlist_id": "37i9dQZF1DX2pSTOxoPbx9", "description": "Rage Tracks"},
+  "sleepy": {"playlist_id": "37i9dQZF1DWZd79rJ6a7lp", "description": "Sleep"},
+  "adventurous": {"playlist_id": "37i9dQZF1DX1g0iEXLFycr", "description": "Adventure Pop"},
+  "meditative": {"playlist_id": "37i9dQZF1DX3PIPIT6lEg5", "description": "Meditation"},
+  "sad but cozy": {"playlist_id": "37i9dQZF1DWVfZbDw6c6g2", "description": "Acoustic Chill"},
+  "hype": {"playlist_id": "37i9dQZF1DX4fpCWaHOned", "description": "Hype Tracks"},
+  "dramatic": {"playlist_id": "37i9dQZF1DX4sWSpwq3LiO", "description": "Cinematic Chill"}
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mood-Based Spotify Player</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="container">
+    <h2>Mood-Based Spotify Player</h2>
+    <input type="text" id="mood-input" placeholder="Enter your mood (happy, sad, energetic, etc.)">
+    <button onclick="playMood()">Play</button>
+
+    <h3 id="playlist-description"></h3>
+    <iframe id="spotify-embed" src="" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
